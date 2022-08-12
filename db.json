@@ -1,1 +1,11 @@
-"{""name"":""卑弥呼"",""note"":""邪馬台国"",""age"":75,""registerDate"":""0204-01-01T02:03:04""}"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
